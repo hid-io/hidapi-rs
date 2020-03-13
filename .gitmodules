@@ -1,3 +1,6 @@
 [submodule "etc/hidapi"]
 	path = etc/hidapi
-	url = https://github.com/libusb/hidapi.git
+	url = https://github.com/haata/hidapi
+[submodule "Submod"]
+	url = https://github.com/haata/hidapi.git
+	branch = master
